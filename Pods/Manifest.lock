@@ -1,0 +1,39 @@
+PODS:
+  - Kingfisher (7.3.2)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - RxTest (6.5.0):
+    - RxSwift (= 6.5.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.3)
+  - RxCocoa (= 6.5.0)
+  - RxSwift (= 6.5.0)
+  - RxTest (~> 6.5)
+  - SnapKit (~> 5.6)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  RxTest: eb2d23adefc5a5ebf5779c7792fa3edfe6ebcc17
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: e6ccd69ca15fee8d95a3c0821ad569559ffdccb3
+
+COCOAPODS: 1.11.2
